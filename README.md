@@ -2,7 +2,7 @@
 
 """
 📡 Ethical Wi-Fi Audit Tool
-Author: devil0rose (hack th box)
+Author: devil0rose (hack the box)
 Purpose: Educational and ethical network testing toolkit
 Note: ONLY use on lab environments with full control and consent
 
